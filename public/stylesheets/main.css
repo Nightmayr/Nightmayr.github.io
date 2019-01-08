@@ -1,7 +1,24 @@
-/* body{
+body{
     background-color: yellow;
+}
+
+/* h1{
+    color: red;
 } */
 
-h1{
-    color: red;
+body{
+    background-color: teal
+}
+
+/* p{
+    color: brown
+} */
+
+.container{
+    padding-top: 30px;
+    margin-top: 2em
+}
+
+.navbar{
+    
 }
